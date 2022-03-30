@@ -8,7 +8,7 @@
 <p>Welcome to my page! </br></p>
 
 - :office: &nbsp;I'm currently working at  &nbsp;<a href="https://passportshipping.com/"> <img src="https://i.ibb.co/nmT1Q4s/Green-2x.png" width="13"/> </a>assport
-- :seedling: &nbsp;I’m currently improving in **Node.js/Angular**
+- 🛠 &nbsp; I’m Fullstack developer and currently working with Node.js, Express, Angular, MySQL, TypeScript, RxJS.
 - :books:	 &nbsp; Kotlin/Android Enthusiast
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
