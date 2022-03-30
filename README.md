@@ -7,8 +7,8 @@
 
 <p>Welcome to my page! </br></p>
 
-- :office: &nbsp;I'm currently working at  <img src="https://i.ibb.co/nmT1Q4s/Green-2x.png" width="13"/>assport
-- :seedling: &nbsp;I’m currently learning **Node.js/Angular**
+- :office: &nbsp;I'm currently working at  &nbsp;<a href="https://passportshipping.com/"> <img src="https://i.ibb.co/nmT1Q4s/Green-2x.png" width="13"/> </a>assport
+- :seedling: &nbsp;I’m currently improving in **Node.js/Angular**
 - :books:	 &nbsp; Kotlin/Android Enthusiast
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
