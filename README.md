@@ -1,5 +1,3 @@
-[![MasterHead](https://i.ibb.co/hKRYdtY/128472-gora-minimalizm-voshod-solnca-zakat-utro-x750.jpg)](https://github.com/IvanPalekhin-Romanov)
-
 ---
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
