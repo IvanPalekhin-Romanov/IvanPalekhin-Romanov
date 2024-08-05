@@ -4,7 +4,7 @@
 
 <p>Welcome to my page! </br></p>
 
-- :office: &nbsp;I'm currently working at  &nbsp;<a href="https://passportshipping.com/"> <img src="https://i.ibb.co/nmT1Q4s/Green-2x.png" width="13"/> </a>assport
+- :office: &nbsp;I'm currently working at  &nbsp;<a href="https://passportshipping.com/"> <img src="https://passportshipping.com/wp-content/uploads/2024/02/Black-text@2x.png" width="13"/> </a>
 - 🛠 &nbsp; I’m Fullstack developer and working with Node.js, Express, Angular, MySQL, TypeScript, RxJS.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
